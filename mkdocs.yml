@@ -1,6 +1,6 @@
 site_name: Scbz's blog of learning Infinitensor 2025 Summer
-site_url: https://scbz4learning.github.io/Infinitensor
-repo_url: https://github.com/scbz4learning/Infinitensor
+site_url: https://scbz4learning.github.io/Learning-Infinitensor
+repo_url: https://github.com/scbz4learning/Learning-Infinitensor
 remote_branch: pages 
 remote_name: scbz4learning
 
@@ -10,7 +10,7 @@ theme:
   # favicon: images/favicon.png
 
 extra:
-  homepage: https://scbz4learning.github.io/Infinitensor
+  homepage: https://scbz4learning.github.io/Learning-Infinitensor
   features:
     - navigation.expand
     - search.highlight
