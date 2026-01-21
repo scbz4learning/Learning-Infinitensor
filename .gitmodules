@@ -19,3 +19,6 @@
 [submodule "learning-cxx"]
 	path = learning-cxx
 	url = git@github.com:scbz4learning/learning-cxx.git
+[submodule "stage2/CLIP"]
+	path = stage2/CLIP
+	url = https://github.com/openai/CLIP
