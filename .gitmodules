@@ -16,3 +16,6 @@
 [submodule "Triton-Puzzles"]
 	path = Triton-Puzzles
 	url = git@github.com:scbz4learning/Triton-Puzzles.git
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = git@github.com:scbz4learning/learning-cxx.git
