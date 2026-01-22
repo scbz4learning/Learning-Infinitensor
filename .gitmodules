@@ -1,21 +1,12 @@
 [submodule "learning-tools"]
 	path = codes/stage0/learning-tools
 	url = https://github.com/scbz4learning/learning-tools
-[submodule "Learning-CUDA"]
-	path = codes/stage1/cuda/Learning-CUDA
-	url = git@github.com:scbz4learning/Learning-CUDA.git
-[submodule "llaisys"]
-	path = codes/stage1/inference/llaisys
-	url = git@github.com:scbz4learning/llaisys.git
 [submodule "TinyInfiniTrain"]
 	path = codes/stage1/training/TinyInfiniTrain
 	url = git@github.com:scbz4learning/TinyInfiniTrain.git
 [submodule "TinyInfiniTensor"]
 	path = codes/stage1/ai_compiler/TinyInfiniTensor
 	url = git@github.com:scbz4learning/TinyInfiniTensor.git
-[submodule "Triton-Puzzles"]
-	path = codes/stage1/Triton/Triton-Puzzles
-	url = git@github.com:scbz4learning/Triton-Puzzles.git
 [submodule "learning-cxx"]
 	path = learning-cxx
 	url = git@github.com:scbz4learning/learning-cxx.git
