@@ -10,9 +10,9 @@
 [submodule "learning-cxx"]
 	path = learning-cxx
 	url = git@github.com:scbz4learning/learning-cxx.git
-[submodule "stage2/CLIP"]
-	path = codes/stage2/ai_compiler/CLIP
-	url = https://github.com/openai/CLIP
 [submodule "stage2/ai_compiler/InfiniTensor"]
 	path = codes/stage2/ai_compiler/InfiniTensor
 	url = git@github.com:scbz4learning/InfiniTensor
+[submodule "codes/stage2/ai_compiler/CLIP"]
+	path = codes/stage2/ai_compiler/CLIP
+	url = https://github.com/openai/CLIP
