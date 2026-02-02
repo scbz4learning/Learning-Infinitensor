@@ -22,3 +22,6 @@
 [submodule "codes/stage1/cuda/leetgpu-challenges"]
 	path = codes/stage1/cuda/leetgpu-challenges
 	url = git@github.com:scbz4learning/leetgpu-challenges.git
+[submodule "codes/stage1/OpenCL/quant_gemv_test"]
+	path = codes/stage1/OpenCL/quant_gemv_test
+	url = https://github.com/InfiniTensor/quant_gemv_test
